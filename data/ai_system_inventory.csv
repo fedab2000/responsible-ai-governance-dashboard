@@ -1,0 +1,9 @@
+system_name,domain,department,model_type,data_sensitivity,decision_impact,automation_level,bias_testing,explainability,monitoring,human_oversight,documentation,privacy_controls
+Auto Insurance Fraud Detection,Insurance,Claims,Classification,Medium,High,Medium,Yes,Yes,Yes,Yes,Yes,Yes
+Insurance Pricing AI,Insurance,Pricing,Regression,Medium,High,Medium,No,Yes,No,Yes,Yes,Yes
+Healthcare Readmission Predictor,Healthcare,Clinical Risk,XGBoost Classification,High,High,Medium,Yes,Yes,Yes,Yes,Yes,Yes
+Dental Recommendation AI,Healthcare,Patient Experience,Recommendation,High,Medium,Medium,No,Medium,No,Yes,Medium,Yes
+Ontario University Policy Analytics,Higher Education,Policy & Planning,Analytics Dashboard,Low,High,Low,Not Applicable,Yes,Yes,Yes,Yes,Yes
+Higher Education AI Support Router,Higher Education,Student Support,Classification,Medium,Medium,Medium,No,Medium,No,Yes,Medium,Yes
+Student Support Ticket Classification,Higher Education,Operations,Classification,Medium,Medium,Medium,No,Medium,No,Yes,Medium,Yes
+Regularized Regression Comparison,Analytics,Modeling,Regression Comparison,Low,Low,Low,Not Applicable,Yes,No,Yes,Yes,Yes
